@@ -3,8 +3,8 @@ jTextEditor
 
 Basic implementation of text editor written in Java for Ubuntu OS.
 
-<h3>IDE</h3>
-This project is developed with NetBeans IDE under Ubuntu operating system.
+<h3>Technologies</h3>
+This project is developed with NetBeans IDE under Ubuntu operating system. I use Swing library for user interface.
 
 <h3>License</h3>
 
